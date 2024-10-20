@@ -6,5 +6,5 @@
 <a align="center" href="https://www.linkedin.com/in/supavit-wutthiprasertchai-b18632279/" title="LinkedIn Profile"><img width="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> </a>
 </h5>
 
-![Dipper breaking a computer](https://tenor.com/view/dipper-computer-gravity-falls-gif-4852810)
+![Dipper breaking a computer](https://media1.tenor.com/m/mlqFlei-k8cAAAAC/dipper-computer.gif)
 
