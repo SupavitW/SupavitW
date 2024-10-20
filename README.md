@@ -9,8 +9,7 @@
 <img src="https://media1.tenor.com/m/mlqFlei-k8cAAAAC/dipper-computer.gif" alt="Dipper breaking a computer" align="right" width="300" height="auto" />
 
 <h2> About Me :v:</h2>
-- 🎓 <b>I graduated from ... </b></br>
-      Thammasat University, Faculty of Political Science with a major in International Relations, but I just turned to software development and became obsessed with the field.
+
       
 - 🧪 <b>I'm currently working on ... </b></br> 
       Finishing my portfolio website
