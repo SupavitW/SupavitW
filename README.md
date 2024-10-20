@@ -6,6 +6,6 @@
 <a align="center" href="https://www.linkedin.com/in/supavit-wutthiprasertchai-b18632279/" title="LinkedIn Profile"><img width="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> </a>
 </h5>
 
-<img src="https://media1.tenor.com/m/mlqFlei-k8cAAAAC/dipper-computer.gif" alt="Dipper breaking a computer" align="right" width="300" height="auto" />
+<img src="https://media1.tenor.com/m/mlqFlei-k8cAAAAC/dipper-computer.gif" alt="Dipper breaking a computer" align="right" width="300" height="300" />
 
 
