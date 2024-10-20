@@ -1,10 +1,12 @@
-![readme header poster](https://github.com/user-attachments/assets/4c38d3d6-b41a-4e22-b173-f5e20605ee96)
+![Supavit's Banner](https://github.com/user-attachments/assets/d3c86cfc-ad1f-44db-a0c4-efd8f94f13f7)
 
-<h2 align="center"> Hi there! :sunglasses: </h2>
+<h1 align="center"> Hi there ! :sunglasses: </h1>
 
 <h5 align="center">
 <br/>
-<a align="center" href="https://www.linkedin.com/in/supavit-wutthiprasertchai-b18632279/" title="LinkedIn Profile"><img width="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> </a>
+<a align="center" href="https://www.linkedin.com/in/supavit-wutthiprasertchai-b18632279" title="LinkedIn Profile"><img width="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn </a>&nbsp; &nbsp;
+<a align="center" href="https://discord.com/users/300973320327659521" title="Discord Profile"><img width="33" height="33" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">  Discord</a> &nbsp; &nbsp;
+<a href="https://leetcode.com/PandaRS/" title="Leetcode Profile"><img width="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode </a> &nbsp; &nbsp;
 </h5>
 
 <h2> About Me :v:</h2>
@@ -19,13 +21,13 @@
       Finishing my portfolio website
       
 - 🧠 <b>I'm currently learning about ... </b></br>
-      Datastructure and algorithms for interview questions and Nestjs in the spare time.
+      Data structure and algorithms for interview questions and Nestjs in the spare time.
   
 - 🔎 <b>I’m currently looking for ... </b></br>
       A full time back-end webdevelopment position. I can do fullstack, but backend is what I prefer.
   
 - ⚡ <b>Fun facts:</b> </br>
-      I like Spiderman, Video Games, and Violet color. Currently, I am trying to master vim motions!
+      I like Spiderman, Video Games, and Violet color. Currently, I am trying to master vim motions !
 <br />
 
 <h2 align="center">:wrench: Languages and Tools</h2>
