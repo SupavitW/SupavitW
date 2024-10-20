@@ -15,7 +15,6 @@
 
 - 🎓 <b>I graduated from ... </b></br>
       Thammasat University, Faculty of Political Science with a major in International Relations. <br />
-      Yes, I am a self-taught developer..
   
 - 🧪 <b>I'm currently working on ... </b></br> 
       Finishing my portfolio website
