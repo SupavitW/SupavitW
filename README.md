@@ -11,12 +11,16 @@
 <h2> About Me :v:</h2>
 - 🎓 <b>I graduated from ... </b></br>
       Thammasat University, Faculty of Political Science with a major in International Relations, but I just turned to software development and became obsessed with the field.
+      
 - 🧪 <b>I'm currently working on ... </b></br> 
       Finishing my portfolio website
+      
 - 🧠 <b>I'm currently learning about ... </b></br>
       datastructure and algorithms for interview questions and Nestjs in the spare time.
+  
 - 🔎 <b>I’m currently looking for ... </b></br>
       A full time back-end webdevelopment position I can do fullstack, but back-end is what I prefer.
+  
 - ⚡ <b>Fun facts:</b> </br>
       I like Spiderman, Video Games, and Violet color. Currently, I am trying to master vim motions!
 
